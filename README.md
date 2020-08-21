@@ -3,7 +3,7 @@
 #### About the Startpage
 
 The Startpage is hosted using github-pages. [Click here](https://dbuxy218.github.io/Prismatic-Night/) to see the live preview.
-The Startpage currently supports searching with DuckDuckgo and Google. Click on the search engine logo image to toggle the search engine.
+The Startpage currently supports searching with DuckDuckgo and Startpage.com. Click on the search engine logo image to toggle the search engine.
 
 ![engine](/screenshots/engineToggle.gif)
 

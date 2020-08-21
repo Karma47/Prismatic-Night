@@ -1,6 +1,6 @@
 html,
 body {
-  background: #263238;
+  background: #202944;
   color: #BBC4C8;
   height: 98%;
 }
@@ -37,7 +37,7 @@ body {
   align-items: center;
   padding-top: 20px;
   padding-bottom: 20px;
-  background: #222D32;
+  background: #202946;
 }
 
 .logo {
@@ -78,7 +78,7 @@ body {
 }
 
 .engine {
-  background: none;
+  background: #202946;
   padding-left: 12px;
   padding-right: 11px;
   border: none;
@@ -94,7 +94,7 @@ form {
 
 .search_box {
   display: flex;
-  background: #222D32;
+  background: #202946;
   width: 600px;
   padding: 0px;
   margin-bottom: 40px;
